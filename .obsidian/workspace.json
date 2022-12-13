@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a68654036dadfc29",
+    "type": "split",
+    "children": [
+      {
+        "id": "71850e7f9f28ca8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554c453f0b8ad6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4f31c2fccfae0ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "6530c32138a2fc75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb74a3fd81adc6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f31c383182a1852d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "338c4fb09476e422",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "689ef4d5c88adb54",
+    "type": "split",
+    "children": [
+      {
+        "id": "7516882d1c173266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f292d330530faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43fbef5b084801f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15923b02ffe072dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "970be40f0c28f3b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "554c453f0b8ad6ff",
+  "lastOpenFiles": [
+    "Docker in Action, Second Edition/Chapter 1 Welcome to Docker 6ee58ae35f3d495db49b397cd75f6e13.md",
+    "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+    "Docker in Action, Second Edition/Pasted image 20221213181446.png"
+  ]
+}
