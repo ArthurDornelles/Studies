@@ -1,0 +1,1 @@
+Pandas is a major library for analytics used for creating bidimensional data frames. It's easy to connect to databases, APIs, files and other data sources.

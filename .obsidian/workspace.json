@@ -8,16 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "554c453f0b8ad6ff",
+            "id": "852a98226812879d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "fbfa70cade307a07"
+          },
+          {
+            "id": "b3c40506b652e0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4139d5a482e85d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering/Data Formats/csv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3cf147a64127f06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04921e81b47cd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "fbfa70cade307a07"
           }
         ]
       }
@@ -85,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker in Action, Second Edition/Docker in Action, Second Edition.md"
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md"
               }
             }
           }
@@ -136,10 +180,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "554c453f0b8ad6ff",
+  "active": "852a98226812879d",
   "lastOpenFiles": [
-    "Docker in Action, Second Edition/Chapter 1 Welcome to Docker 6ee58ae35f3d495db49b397cd75f6e13.md",
+    "Python/Python.md",
+    "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+    "Python/Pandas.md",
+    "Data Engineering/Untitled.md",
+    "Data Engineering/Data Formats/csv.md",
     "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
-    "Docker in Action, Second Edition/Pasted image 20221213181446.png"
+    "Docker in Action, Second Edition/Pasted image 20221213181446.png",
+    "README.md",
+    "Docker in Action, Second Edition/Chapter 1 Welcome to Docker 6ee58ae35f3d495db49b397cd75f6e13.md"
   ]
 }
