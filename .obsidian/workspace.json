@@ -6,39 +6,15 @@
       {
         "id": "71850e7f9f28ca8f",
         "type": "tabs",
+        "dimension": 50,
         "children": [
-          {
-            "id": "852a98226812879d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "fbfa70cade307a07"
-          },
           {
             "id": "b3c40506b652e0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4139d5a482e85d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Engineering/Data Formats/csv.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,11 +23,12 @@
         ]
       },
       {
-        "id": "3cf147a64127f06e",
+        "id": "0fa803214feafb47",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "d04921e81b47cd65",
+            "id": "c4139d5a482e85d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,8 +37,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "fbfa70cade307a07"
+            }
           }
         ]
       }
@@ -180,16 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "852a98226812879d",
+  "active": "c4139d5a482e85d5",
   "lastOpenFiles": [
     "Python/Python.md",
+    "www.strftime.org.md",
     "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+    "Data Engineering/Data Formats/Excel.md",
+    "Data Engineering/Data Formats/csv.md",
     "Python/Pandas.md",
     "Data Engineering/Untitled.md",
-    "Data Engineering/Data Formats/csv.md",
     "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
     "Docker in Action, Second Edition/Pasted image 20221213181446.png",
-    "README.md",
-    "Docker in Action, Second Edition/Chapter 1 Welcome to Docker 6ee58ae35f3d495db49b397cd75f6e13.md"
+    "README.md"
   ]
 }
