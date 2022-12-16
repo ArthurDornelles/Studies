@@ -1,0 +1,1 @@
+Structured Query Language or SQL is a Database Query Language used in programming for managing a [[relational database]].

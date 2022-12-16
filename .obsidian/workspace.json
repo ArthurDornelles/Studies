@@ -19,6 +19,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffdc665d64911123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Python/Requests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a71767cb2974ac04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -35,6 +59,42 @@
               "state": {
                 "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3388f488be752a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd97cf41b468edfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering/Data Formats/JSON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caf1b6531419518d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/SQL.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -156,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4139d5a482e85d5",
+  "active": "b3c40506b652e0e6",
   "lastOpenFiles": [
-    "Python/Python.md",
-    "www.strftime.org.md",
+    "Technologies/Python/Python.md",
+    "Technologies/Python/Requests.md",
     "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
-    "Data Engineering/Data Formats/Excel.md",
-    "Data Engineering/Data Formats/csv.md",
-    "Python/Pandas.md",
-    "Data Engineering/Untitled.md",
-    "Docker in Action, Second Edition/Docker in Action, Second Edition.md",
-    "Docker in Action, Second Edition/Pasted image 20221213181446.png",
-    "README.md"
+    "Technologies/API.md",
+    "Data Engineering/Data Formats/JSON.md",
+    "Data Engineering/Databases/relational database.md",
+    "Technologies/SQL.md",
+    "Technologies/Python/Sqlalchemy.md",
+    "www.strftime.org.md",
+    "Data Engineering/Data Formats/Excel.md"
   ]
 }
