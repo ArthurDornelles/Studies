@@ -8,24 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b29cbf450cedec9",
+            "id": "23364a651ab4ae23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Writing Efficient Python Code.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5ded65cfa7056278",
+        "type": "tabs",
+        "children": [
           {
-            "id": "23364a651ab4ae23",
+            "id": "9d15ad417cd4eab6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Writing Efficient Python Code.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Writing Efficient Python Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Writing Efficient Python Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md"
+                "file": "Data Engineering/Data Engineering With Python - Datacamp/Writing Efficient Python Code.md"
               }
             }
           }
@@ -157,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b29cbf450cedec9",
+  "active": "23364a651ab4ae23",
   "lastOpenFiles": [
     "Data Engineering/Data Engineering With Python - Datacamp/Writing Efficient Python Code.md",
     "Data Engineering/Data Engineering With Python - Datacamp/Streamlined Data Ingestion with pandas.md",
-    "Technologies/Python/NumPy.md",
-    "Technologies/SQL.md",
+    "Technologies/Python/Sqlalchemy.md",
+    "Pasted image 20230125183729.png",
+    "Untitled.canvas",
     "Data Engineering/Data Formats/JSON.md",
-    "Technologies/Python/Python.md",
-    "Technologies/Python/Requests.md",
-    "Technologies/API.md",
-    "Data Engineering/Databases/relational database.md",
-    "Technologies/Python/Sqlalchemy.md"
+    "Data Engineering/Data Formats/Excel.md",
+    "Data Engineering/Data Formats/CSV.md",
+    "Technologies/Python/Magic Command.md",
+    "Technologies/Python/NumPy.md"
   ]
 }
