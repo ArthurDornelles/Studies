@@ -595,7 +595,7 @@ print(data)
 ```
 ```python
 # Load business data to a data frame
-bookstores = pd.DataFRame(data['businesses'])
+bookstores = pd.DataFrame(data['businesses'])
 print(bookstores.head(2))
 ```
 
@@ -667,7 +667,7 @@ print(bookstores[['categories','coordinates','location']].head(3))
 ```python
 import pandas as pd
 import requests
-from pandas.io.json import json_normalize
+from pandas import json_normalize
 
 # Set up headers, parameters, and API endpoint
 api_url = "https://api.yelp.com/v3/businesses/search"

@@ -155,11 +155,11 @@ print(f'l_time better than f_time by {diff} ns')
 l_time better than f_time by 51.90819192857814 ns
 ```
 
-## Code profiling for run time
+### Code profiling for run time
 
 Python can give you detailed statistics on frequency and duration of function calls where you can have line-by-line analyses. You can use the package ```line_profiler```.
 
-### Code profiling: line_profiler
+#### Code profiling: line_profiler
 
 Let's see the ```convert_units``` function inside the ```convert_units.py``` file.
 ```Python
@@ -235,7 +235,7 @@ Line #  Hits  Time    Per Hit % Time  Line Contents
 
 and as we can see, there was a reduction from 919 ns to 134 ns!
 
-## Code profiling for memory usage
+### Code profiling for memory usage
 
 As used above for time performance, you can use the ```memory_profiler``` [[Magic Command]] to have a line-by-line analysis of the memory consumption.
 
